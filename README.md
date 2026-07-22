@@ -37,3 +37,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - Strengthen SQL, Python, and PySpark for analytics and data engineering.
 - Build reliable ETL/ELT pipelines with clear data quality checks.
 - Improve dashboarding and business-facing data products.
+
+## Contact me
+
+vpqcuong@gmail.com
