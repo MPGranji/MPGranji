@@ -14,7 +14,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript, Java, Shell  
+**Languages:** Python, SQL, JavaScript  
 **Mobile / Frontend:** React Native, React, HTML, CSS, mobile/admin interfaces  
 **Data Processing:** PySpark, Spark SQL, Spark Structured Streaming, Pandas  
 **Data Engineering:** Apache Airflow, Apache Kafka, Apache Cassandra, MySQL, PostgreSQL, Oracle XE  
