@@ -20,7 +20,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 **Data Processing:** PySpark, Spark SQL, Spark Structured Streaming, Pandas  
 **Data Engineering:** Apache Airflow, Apache Kafka, Apache Cassandra, MySQL, PostgreSQL, Oracle XE  
 **Lakehouse & Analytics:** Apache Iceberg, MinIO, Trino, Power BI, Apache Superset  
-**DevOps / CI/CD:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose  
+**CI/CD:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose  
 **Tools:** Jupyter Notebook, Git, GitHub  
 **AI / Computer Vision:** OpenAI API, OpenCV, Kociemba  
 **Currently Exploring:** MongoDB
