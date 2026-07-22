@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.68.
 
-My main interests are Data Analytics and Data Engineering. I enjoy building ETL pipelines, streaming systems, lakehouse platforms, BI dashboards, and data-driven applications. I also build React-based mobile-friendly web/admin interfaces in private projects.
+My main interests are Data Analytics and Data Engineering. I enjoy building ETL pipelines, streaming systems, lakehouse platforms, BI dashboards, and data-driven applications. I also build React Native mobile/admin applications in private projects.
 
 ## What I'm Working Toward
 
@@ -10,12 +10,12 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - Data Engineering pipelines and orchestration
 - Customer 360 and lakehouse architecture
 - Backend and data-driven application development
-- Responsive React admin interfaces
+- React Native mobile application development
 
 ## Tech Stack
 
 **Languages:** Python, SQL, JavaScript, Java, Shell  
-**Frontend:** React, HTML, CSS, responsive/mobile web UI, admin dashboards  
+**Mobile / Frontend:** React Native, React, HTML, CSS, mobile/admin interfaces  
 **Data Processing:** PySpark, Spark SQL, Spark Structured Streaming, Pandas  
 **Data Engineering:** Apache Airflow, Apache Kafka, Apache Cassandra, MySQL, PostgreSQL, Oracle XE  
 **Lakehouse & Analytics:** Apache Iceberg, MinIO, Trino, Power BI, Apache Superset  
@@ -28,7 +28,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - [Customer 360 Behavioral Analytics](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) - PySpark ETL for telecom behavioral/search logs, OpenAI keyword classification, MySQL, and Power BI dashboard.
 - [Recruitment Data Platform](https://github.com/MPGranji/project_de-recruitment) - Lambda-style real-time and batch ETL with Kafka, Spark Streaming, Cassandra, Airflow, and MySQL.
 - [Retail Banking Customer 360 Lakehouse](https://github.com/MPGranji/retail-banking-customer360-lakehouse) - End-to-end lakehouse platform using Spark, Iceberg, MinIO, Trino, Airflow, PostgreSQL, Oracle XE, and Superset.
-- Mobile-friendly Fashion Admin System - private React web/admin project focused on responsive management workflows.
+- Fashion Admin / Mobile App - private React Native project focused on fashion management and mobile/admin workflows.
 - [Rubik Solver](https://github.com/MPGranji/Rubik_Solver) - Python Rubik's Cube solver using OpenCV for color detection and Kociemba's algorithm.
 
 ## Current Goals
