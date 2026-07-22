@@ -11,6 +11,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - Customer 360 and lakehouse architecture
 - Backend and data-driven application development
 - React Native mobile application development
+- CI/CD and deployment automation
 
 ## Tech Stack
 
@@ -19,7 +20,8 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 **Data Processing:** PySpark, Spark SQL, Spark Structured Streaming, Pandas  
 **Data Engineering:** Apache Airflow, Apache Kafka, Apache Cassandra, MySQL, PostgreSQL, Oracle XE  
 **Lakehouse & Analytics:** Apache Iceberg, MinIO, Trino, Power BI, Apache Superset  
-**Tools:** Docker, Docker Compose, Jupyter Notebook, Git, GitHub  
+**DevOps / CI/CD:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose  
+**Tools:** Jupyter Notebook, Git, GitHub  
 **AI / Computer Vision:** OpenAI API, OpenCV, Kociemba  
 **Currently Exploring:** MongoDB
 
