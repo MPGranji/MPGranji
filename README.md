@@ -22,7 +22,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 **Lakehouse & Analytics:** Apache Iceberg, MinIO, Trino, Power BI, Apache Superset  
 **CI/CD:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose  
 **Tools:** Jupyter Notebook, Git, GitHub  
-**AI / Computer Vision:** OpenAI API, OpenCV, Kociemba  
+**AI / Computer Vision:** OpenAI API, OpenCV
 
 ## Featured Projects
 
