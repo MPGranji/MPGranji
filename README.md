@@ -15,29 +15,42 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 
 ## Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
-**Mobile / Frontend:** React Native, React, HTML, CSS, mobile/admin interfaces  
-**Data Processing:** PySpark, Spark SQL, Spark Structured Streaming, Pandas  
-**Data Engineering:** Apache Airflow, Apache Kafka, Apache Cassandra, MySQL, PostgreSQL, Oracle XE, MongoDB
-**Lakehouse & Analytics:** Apache Iceberg, MinIO, Trino, Power BI, Apache Superset  
-**CI/CD:** GitHub Actions, CI/CD pipelines, Docker, Docker Compose  
-**Tools:** Jupyter Notebook, Git, GitHub  
-**AI / Computer Vision:** OpenAI API, OpenCV
+- **Languages & Data:** Python, SQL, TypeScript, JavaScript, PySpark, Spark SQL, Pandas
+- **Data Platforms & BI:** Kafka, Airflow, Iceberg, Power BI, Apache Superset
+- **Applications:** React Native, Expo, React, Vite, Socket.IO
+- **Infrastructure:** AWS EC2, Docker Compose, Git, GitHub Actions
 
 ## Featured Projects
 
-- [Customer 360 Behavioral Analytics](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) - PySpark ETL for telecom behavioral/search logs, OpenAI keyword classification, MySQL, and Power BI dashboard.
-- [Recruitment Data Platform](https://github.com/MPGranji/project_de-recruitment) - Lambda-style real-time and batch ETL with Kafka, Spark Streaming, Cassandra, Airflow, and MySQL.
-- [Retail Banking Customer 360 Lakehouse](https://github.com/MPGranji/retail-banking-customer360-lakehouse) - End-to-end lakehouse platform using Spark, Iceberg, MinIO, Trino, Airflow, PostgreSQL, Oracle XE, and Superset.
-- Fashion Admin / Mobile App - private React Native project focused on fashion management and mobile/admin workflows.
-- [Rubik Solver](https://github.com/MPGranji/Rubik_Solver) - Python Rubik's Cube solver using OpenCV for color detection and Kociemba's algorithm.
+### Retail Banking Customer 360 Lakehouse
 
-## Current Goals
+[Repository](https://github.com/MPGranji/retail-banking-customer360-lakehouse) | [Project report](docs/Bao_cao_Customer_360_Lakehouse_Banking.pdf)
 
-- Strengthen SQL, Python, and PySpark for analytics and data engineering.
-- Build reliable ETL/ELT pipelines with clear data quality checks.
-- Improve dashboarding and business-facing data products.
+- Engineered a Spark-Iceberg lakehouse processing 1.3M+ synthetic records from 10 Oracle and PostgreSQL tables into governed Customer 360 marts for 10,000 customers.
+- Implemented 4 SCD Type 2 dimensions, 19 data-quality checks, PII masking, and Airflow orchestration; delivered Superset views for segmentation and campaign targeting.
 
-## Contact me
+### Customer 360 Behavioral Analytics
 
-vpqcuong@gmail.com
+[Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics)
+
+- Processed JSON and Parquet telecom logs for 1.92M contracts with PySpark and Spark SQL, publishing Customer 360 datasets to MySQL and Power BI.
+- Classified monthly search interests with GPT-4o-mini and window functions, finding that 69.13% of users changed their primary category between June and July.
+
+### Recruitment Data Platform
+
+[Repository](https://github.com/MPGranji/project_de-recruitment)
+
+- Built a Kafka and Spark Structured Streaming pipeline that validated synthetic recruitment events and persisted checkpointed streams to Cassandra.
+- Used Airflow and PySpark to refresh 6 hourly job and publisher KPIs every minute, publishing enriched MySQL tables for recruitment analytics.
+
+### Mobile E-commerce App with Virtual Fitting & Recommendations
+
+[Repository](https://github.com/bloodthirster2510/fashion-ecommerce-system) | [Project report](docs/fashion-ecommerce-mobile.pdf)
+
+- Developed the customer mobile application with React Native and Expo, connecting product discovery and recommendations with virtual fitting, checkout, VNPay, and order tracking.
+- Built the React and TypeScript web admin for 8 operational areas, including catalog, inventory, orders, customers, promotions, support, virtual fitting, and recommendation reporting.
+- Deployed the Docker Compose stack to AWS EC2 with GitHub Actions quality gates, health checks, and automatic rollback. Collaborative project; owned mobile, web admin, and deployment.
+
+## Contact
+
+[vpqcuong@gmail.com](mailto:vpqcuong@gmail.com)
