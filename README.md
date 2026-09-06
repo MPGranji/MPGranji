@@ -1,6 +1,6 @@
 # Hi, I'm Quoc Cuong
 
-I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.68.
+I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.69.
 
 My main interests are Data Analytics and Data Engineering. I enjoy building ETL pipelines, streaming systems, lakehouse platforms, BI dashboards, and data-driven applications. I also build React Native mobile/admin applications in private projects.
 
