@@ -26,22 +26,22 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 
 [Repository](https://github.com/MPGranji/retail-banking-customer360-lakehouse) | [Project report](docs/Bao_cao_Customer_360_Lakehouse_Banking.pdf)
 
-- Engineered a Spark-Iceberg lakehouse processing 1.3M+ synthetic records from 10 Oracle and PostgreSQL tables into governed Customer 360 marts for 10,000 customers.
-- Implemented 4 SCD Type 2 dimensions, 19 data-quality checks, PII masking, and Airflow orchestration; delivered Superset views for segmentation and campaign targeting.
+- Built an end-to-end Spark-Iceberg lakehouse across Bronze, Silver, Gold, and Sandbox layers, integrating 1.3M+ records from 10 Oracle and PostgreSQL tables into daily Customer 360 marts for 10,000 retail banking customers.
+- Implemented 4 SCD Type 2 dimensions, 19 data-quality gates, PII-masked access through Trino RBAC, and Airflow orchestration; delivered RFM, churn-risk, cross-sell, and Next Best Offer analytics in Superset.
 
 ### Customer 360 Behavioral Analytics
 
 [Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics)
 
-- Processed JSON and Parquet telecom logs for 1.92M contracts with PySpark and Spark SQL, publishing Customer 360 datasets to MySQL and Power BI.
-- Classified monthly search interests with GPT-4o-mini and window functions, finding that 69.13% of users changed their primary category between June and July.
+- Built PySpark and Spark SQL pipelines for two telecom data streams: JSON content-viewing logs and Parquet search logs, analyzing 1.92M contracts and publishing Customer 360 datasets to MySQL and Power BI.
+- Profiled viewing behavior through activity levels, most-watched content, and user tastes; classified monthly search interests with GPT-4o-mini and window functions, finding that 69.13% of users changed their primary category between June and July.
 
 ### Recruitment Data Platform
 
 [Repository](https://github.com/MPGranji/project_de-recruitment)
 
-- Built a Kafka and Spark Structured Streaming pipeline that validated synthetic recruitment events and persisted checkpointed streams to Cassandra.
-- Used Airflow and PySpark to refresh 6 hourly job and publisher KPIs every minute, publishing enriched MySQL tables for recruitment analytics.
+- Built a Lambda-style recruitment data platform combining Kafka and Spark Structured Streaming for schema-validated event ingestion into Cassandra with Airflow-orchestrated PySpark batches to MySQL.
+- Implemented high-watermark incremental processing, job and company metadata enrichment, and hourly job/publisher KPIs for recruitment interaction analytics and BI reporting.
 
 ### Mobile E-commerce App with Virtual Fitting & Recommendations
 
