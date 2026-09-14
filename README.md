@@ -18,7 +18,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - **Languages & Data:** Python, SQL, TypeScript, JavaScript, PySpark, Spark SQL, Pandas
 - **Data Platforms & BI:** Kafka, Airflow, Iceberg, Power BI, Apache Superset
 - **Applications:** React Native, Expo, React, Vite, Socket.IO
-- **Infrastructure:** AWS EC2, Docker Compose, Git, GitHub Actions
+- **Infrastructure:** Amazon Lightsail, Docker Compose, Git, GitHub Actions
 
 ## Featured Projects
 
@@ -49,7 +49,7 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 
 - Developed the customer mobile application with React Native and Expo, connecting product discovery and recommendations with virtual fitting, checkout, VNPay, and order tracking.
 - Built the React and TypeScript web admin for 8 operational areas, including catalog, inventory, orders, customers, promotions, support, virtual fitting, and recommendation reporting.
-- Deployed the Docker Compose stack to AWS EC2 with GitHub Actions quality gates, health checks, and automatic rollback. Collaborative project; owned mobile, web admin, and deployment.
+- Deployed the Docker Compose stack to Amazon Lightsail with GitHub Actions quality gates, health checks, and automatic rollback. Collaborative project; owned mobile, web admin, and deployment.
 
 ## Contact
 
