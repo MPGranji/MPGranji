@@ -11,7 +11,6 @@ My main interests are Data Analytics and Data Engineering. I enjoy building ETL 
 - Customer 360 and lakehouse architecture
 - Backend and data-driven application development
 - React Native mobile application development
-- CI/CD and deployment automation
 
 ## Tech Stack
 
