@@ -31,7 +31,7 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 - Built an end-to-end Spark-Iceberg lakehouse across Bronze, Silver, Gold, and Sandbox layers, integrating 1.3M+ records from 10 Oracle and PostgreSQL tables into daily Customer 360 marts for 10,000 retail banking customers.
 - Implemented 4 SCD Type 2 dimensions, 19 data-quality gates, PII-masked access through Trino RBAC, and Airflow orchestration; delivered RFM, churn-risk, cross-sell, and Next Best Offer analytics in Superset.
 
-### Customer 360 Behavioral Analytics
+### Customer 360 Behavioral Analytics - Telecom Content Viewing and Search
 
 *Dec 2025* | [Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) | [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Customer_360_Behavioral_Analytics.pdf) | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmMGY1ZDktM2JlZC00YzAwLTg1YjUtNzhkY2RkMWZmZWExIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
