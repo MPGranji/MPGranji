@@ -10,14 +10,14 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ### Kalotoys WMS
 
-*Nov 2026* | [Project report](docs/Report_Kalotoys_WMS.pdf) | [Product demo](https://kalotoys-wms.vercel.app/tong-quan)
+[Project report](docs/Report_Kalotoys_WMS.pdf) | [Product demo](https://kalotoys-wms.vercel.app/tong-quan)
 
 - Built a Next.js and MongoDB warehouse management system for a wooden educational toy manufacturer to track material receipts, issues to production, transfers, and stock by storage location.
 - Integrated Power BI dashboards to monitor stock levels and inventory movements.
 
 ### Hotel Digital
 
-*Sep–Nov 2026* | [Project report](docs/Report_hotel_VPQC.pdf) | [Project website](https://hotel-digital.vercel.app/)
+[Project report](docs/Report_hotel_VPQC.pdf) | [Project website](https://hotel-digital.vercel.app/)
 
 - Digitized front-desk operations for a hotel group with three properties rated 3 or 4 stars, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
 - Analyzed booking records from June to October to investigate why revenue fell below target. Occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
