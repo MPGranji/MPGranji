@@ -33,7 +33,7 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ### Customer 360 Behavioral Analytics
 
-*Dec 2025* | [Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) | [Project report](docs/Customer_360_Behavioral_Analytics.pdf)
+*Dec 2025* | [Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) | [Project report](docs/Customer_360_Behavioral_Analytics.pdf) | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmMGY1ZDktM2JlZC00YzAwLTg1YjUtNzhkY2RkMWZmZWExIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 - Built PySpark and Spark SQL pipelines for two telecom datasets: JSON content-viewing logs and Parquet search logs, analyzing 1.92M contracts and publishing Customer 360 datasets to MySQL and Power BI.
 - Profiled viewing behavior through activity levels, most-watched content, and user tastes; classified monthly search interests with GPT-4o-mini and window functions, finding that 69.13% of users changed their primary category between June and July.
