@@ -1,6 +1,8 @@
 # Hi, I'm Quoc Cuong
 
-**[View my portfolio](https://mpgranji.github.io/)**
+<p align="center">
+  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner.svg" width="100%" alt="View my portfolio: mpgranji.github.io"></a>
+</p>
 
 I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.69.
 
