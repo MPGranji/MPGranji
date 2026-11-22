@@ -1,5 +1,7 @@
 # Hi, I'm Quoc Cuong
 
+**[View my portfolio](https://mpgranji.github.io/)**
+
 I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.69.
 
 I focus on data analytics and data engineering, with hands-on experience building ETL pipelines, streaming systems, lakehouse platforms, and BI dashboards. For my graduation thesis, I built a React Native fashion shopping app with virtual fitting and product recommendations, along with a web dashboard for managing products, inventory, and orders.
@@ -64,4 +66,4 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ## Contact
 
-[vpqcuong@gmail.com](mailto:vpqcuong@gmail.com)
+[Portfolio](https://mpgranji.github.io/) | [vpqcuong@gmail.com](mailto:vpqcuong@gmail.com)
