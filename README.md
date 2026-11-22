@@ -24,8 +24,8 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_hotel_VPQC.pdf) | [Demo (sample data)](https://hotel-digital.vercel.app/)
 
-- Digitized front-desk operations for a hotel group operating three branches, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
-- Analyzed demo booking data for one branch from June to October to illustrate why revenue fell below target. In the demo data, occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
+- Built a front-desk system for one branch of a three-branch hotel group, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
+- Analyzed booking records collected at that branch from June to October 2024. Occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
 
 ## Featured Projects
 
@@ -34,14 +34,14 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 *Jul 2026* | [Repository](https://github.com/MPGranji/retail-banking-customer360-lakehouse) | [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Bao_cao_Customer_360_Lakehouse_Banking.pdf)
 
 - Built an end-to-end Spark-Iceberg lakehouse across Bronze, Silver, Gold, and Sandbox layers, integrating 1.3M+ records from 10 Oracle and PostgreSQL tables into daily Customer 360 marts for 10,000 retail banking customers.
-- Implemented 4 SCD Type 2 dimensions, 19 data-quality gates, PII-masked access through Trino RBAC, and Airflow orchestration; delivered RFM, churn-risk, cross-sell, and Next Best Offer analytics in Superset.
+- Implemented four SCD Type 2 dimensions, masked PII with access controlled through Trino RBAC, and orchestrated the pipeline in Airflow. The acceptance run passed all 19 data quality checks. Delivered RFM, churn-risk, cross-sell, and Next Best Offer analytics in Superset.
 
 ### Customer 360 Behavioral Analytics - Telecom Content Viewing and Search
 
 *Dec 2025* | [Repository](https://github.com/MPGranji/etl-customer-360-behavioral-analytics) | [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Customer_360_Behavioral_Analytics.pdf) | [Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmMGY1ZDktM2JlZC00YzAwLTg1YjUtNzhkY2RkMWZmZWExIiwidCI6IjZhYzJhZDA2LTY5MmMtNDY2My1iN2FmLWE5ZmYyYTg2NmQwYyIsImMiOjEwfQ%3D%3D)
 
 - Built PySpark and Spark SQL pipelines for two telecom datasets: JSON content-viewing logs and Parquet search logs, analyzing 1.92M contracts and publishing Customer 360 datasets to MySQL and Power BI.
-- Profiled viewing behavior through activity levels, most-watched content, and user tastes; classified monthly search interests with GPT-4o-mini and window functions, finding that 69.13% of users changed their primary category between June and July.
+- Profiled viewing behavior by activity level and most-watched content. Used window functions and GPT-4o-mini to identify each user’s primary search genre. Of the 86,172 users active in both periods (June 1–14 and July 1–14, 2022), 69.13% changed their primary genre.
 
 ### Recruitment Data Platform
 
