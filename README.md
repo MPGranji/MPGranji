@@ -17,7 +17,7 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ### Hotel Digital
 
-[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_hotel_VPQC.pdf) | [Project website](https://hotel-digital.vercel.app/)
+[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_hotel_VPQC.pdf) | [Project demo](https://hotel-digital.vercel.app/)
 
 - Digitized front-desk operations for a hotel group with three properties rated 3 or 4 stars, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
 - Analyzed booking records from June to October to investigate why revenue fell below target. Occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
