@@ -6,7 +6,7 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ## Internship Experience
 
-**SonDoong Labs** | *Jun–Nov 2026*
+**SonDoong Labs** | *Jun–Aug 2026*
 
 ### Kalotoys WMS
 
