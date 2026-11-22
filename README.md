@@ -1,30 +1,31 @@
 # Hi, I'm Quoc Cuong
 
 <p align="center">
-  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner.svg" width="100%" alt="View my portfolio: mpgranji.github.io"></a>
+  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner.svg" width="100%" alt="View my portfolio: mpgranji.github.io"></a><br>
+  <a href="https://mpgranji.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/vuong-phan-quoc-cuong-31875b451/">LinkedIn</a>
 </p>
 
 I'm a Software Engineering student in the High-Quality Program (K48) at Can Tho University, with a current GPA of 3.69.
 
-I focus on data analytics and data engineering, with hands-on experience building ETL pipelines, streaming systems, lakehouse platforms, and BI dashboards. For my graduation thesis, I built a React Native fashion shopping app with virtual fitting and product recommendations, along with a web dashboard for managing products, inventory, and orders.
+I focus on data analytics and data engineering, with hands-on experience building ETL pipelines, streaming systems, lakehouse platforms, and BI dashboards. For my graduation thesis, I built the React Native fashion shopping app, including product discovery, recommendations, virtual fitting, checkout, and order tracking. I also contributed to the web admin and deployment.
 
 ## Internship Experience
 
-**SonDoong Labs** | *Jun–Aug 2026*
+**SonDoong Labs** | *Aug–Nov 2026*
 
 ### Kalotoys WMS
 
-[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_Kalotoys_WMS.pdf) | [Product demo](https://kalotoys-wms.vercel.app/tong-quan)
+[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_Kalotoys_WMS.pdf) | [Demo (sample data)](https://kalotoys-wms.vercel.app/tong-quan)
 
 - Built a Next.js and MongoDB warehouse management system for a wooden educational toy manufacturer to track material receipts, issues to production, transfers, and stock by storage location.
 - Integrated Power BI dashboards to monitor stock levels and inventory movements.
 
 ### Hotel Digital
 
-[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_hotel_VPQC.pdf) | [Project demo](https://hotel-digital.vercel.app/)
+[Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/Report_hotel_VPQC.pdf) | [Demo (sample data)](https://hotel-digital.vercel.app/)
 
-- Digitized front-desk operations for a hotel group with three properties rated 3 or 4 stars, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
-- Analyzed booking records from June to October to investigate why revenue fell below target. Occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
+- Digitized front-desk operations for a hotel group operating three branches, covering reservations, check-in, early checkout, and payments. Deployed the backend on Azure App Service with Azure SQL Database.
+- Analyzed demo booking data for one branch from June to October to illustrate why revenue fell below target. In the demo data, occupancy averaged 46.22% and fell to 17.83% in October. The analysis informed a proposal to raise direct booking rates and keep online rates steady.
 
 ## Featured Projects
 
@@ -51,11 +52,11 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ### Mobile E-commerce App with Virtual Fitting & Recommendations
 
-*Aug 2026* | [Repository](https://github.com/bloodthirster2510/fashion-ecommerce-system) | [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/fashion-ecommerce-mobile.pdf) | [Mobile App Demo](https://www.youtube.com/watch?v=jNOUzghrpYM) | [Web Admin Demo](https://youtu.be/h9GcLePPjQY)
+*Aug 2026* | [Repository](https://github.com/phatdat2510/fashion-ecommerce-system) | [Download report](https://raw.githubusercontent.com/MPGranji/MPGranji/main/docs/fashion-ecommerce-mobile.pdf) | [Mobile App Demo](https://www.youtube.com/watch?v=jNOUzghrpYM) | [Web Admin Demo](https://youtu.be/h9GcLePPjQY)
 
 - Developed the customer mobile application with React Native and Expo, connecting product discovery and recommendations with virtual fitting, checkout, VNPay, and order tracking.
-- Built the React and TypeScript web admin for 8 operational areas, including catalog, inventory, orders, customers, promotions, support, virtual fitting, and recommendation reporting.
-- Deployed the Docker Compose stack to Amazon Lightsail with GitHub Actions quality gates, health checks, and automatic rollback. Collaborative project; owned mobile, web admin, and deployment.
+- Built six React and TypeScript web admin areas for customers, roles, orders, support, search and recommendation analytics, and try-on management.
+- Deployed the Docker Compose stack to Amazon Lightsail with GitHub Actions quality gates, health checks, and automatic rollback.
 
 ## Tech Stack
 
@@ -68,4 +69,4 @@ I focus on data analytics and data engineering, with hands-on experience buildin
 
 ## Contact
 
-[Portfolio](https://mpgranji.github.io/) | [vpqcuong@gmail.com](mailto:vpqcuong@gmail.com)
+[Portfolio](https://mpgranji.github.io/) | [LinkedIn](https://www.linkedin.com/in/vuong-phan-quoc-cuong-31875b451/) | [GitHub](https://github.com/MPGranji) | [vpqcuong@gmail.com](mailto:vpqcuong@gmail.com)
