@@ -1,7 +1,7 @@
 # Hi, I'm Quoc Cuong
 
 <p align="center">
-  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner.svg" width="100%" alt="Analytics Engineer and Software Engineering student at Can Tho University. View my portfolio."></a><br>
+  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner-analytics-engineer.svg" width="100%" alt="Analytics Engineer and Software Engineering student at Can Tho University. View my portfolio."></a><br>
   <a href="https://mpgranji.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/vuong-phan-quoc-cuong-31875b451/">LinkedIn</a>
 </p>
 
