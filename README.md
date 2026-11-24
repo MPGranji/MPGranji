@@ -6,4 +6,6 @@ I enjoy exploring how people use products, figuring out why a metric changed, an
 
 > Understand how a number was calculated before deciding what it means.
 
-[Portfolio](https://mpgranji.github.io/)
+<p align="center">
+  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner-analytics-engineer.svg" width="100%" alt="View my portfolio at mpgranji.github.io"></a>
+</p>
