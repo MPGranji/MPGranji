@@ -7,5 +7,5 @@ I enjoy exploring how people use products, figuring out why a metric changed, an
 > Understand how a number was calculated before deciding what it means.
 
 <p align="center">
-  <a href="https://mpgranji.github.io/"><img src="assets/portfolio-banner-analytics-engineer.svg" width="100%" alt="View my portfolio at mpgranji.github.io"></a>
+  <a href="https://mpgranji.github.io/portfolio/"><img src="assets/portfolio-banner-analytics-engineer.svg" width="100%" alt="View my portfolio at mpgranji.github.io/portfolio/"></a>
 </p>
